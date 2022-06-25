@@ -1,0 +1,96 @@
+html {
+display: flex;
+  align-items: center; 
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(#39a2a2, #ff8533) ;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  
+}
+.center {
+text-align: center;
+  
+}
+
+h1 {
+color: #12296e ;
+background-color: whitesmoke;
+font-family: Helvetica;
+}
+
+.inicio {
+  font-family: Helvetica;
+  color: whitesmoke ;
+}
+
+.participacion {
+ color: whitesmoke;
+  font-family: Helvetica;
+}
+
+nav {
+  background-color: #ff8533;
+}
+
+nav a {
+  margin-right: 10px;
+  color: #12296e;
+  font-family: Helvetica;
+}
+
+.contenido1 {
+  font-family: Helvetica;
+  color: whitesmoke;
+}
+
+
+
+h2 {
+  color: whitesmoke;
+  font-family: Helvetica;
+}
+
+.frontImg {
+  width: 300px;
+  height: 150px;
+  margin-top: 5px;
+  margin:10 px;
+  border: 1px solid #c25a14;
+
+}
+
+.special {
+  color:  #12296e; 
+}
+
+.mision {
+  color: whitesmoke;
+  font-family: Helvetica;
+}
+
+.contenido2 {
+  font-family: Helvetica;
+  color: whitesmoke;
+}
+
+ul {
+  color: #12296e
+}
+
+.contenido3 {
+  color: whitesmoke;
+  font-family: Helvetica;
+}
+
+.Img {
+  width: 150px;
+  height: 150px
+  margin-top: 5px;
+  border: 1px solid #c25a14;
+}
+
